@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "POT_Thumbwheel_3Pin")(type "KiCad")(uri "${KIPRJMOD}/POT_Thumbwheel_3Pin.pretty")(options "")(descr ""))
+  (lib (name "Potentiometer_Thumbwheel_3Pin_16mm")(type "KiCad")(uri "${KIPRJMOD}/Potentiometer_Thumbwheel_3Pin_16mm.pretty")(options "")(descr ""))
+  (lib (name "EVQ-VVD00203B")(type "KiCad")(uri "${KIPRJMOD}/EVQ-VVD00203B.pretty")(options "")(descr ""))
+)
